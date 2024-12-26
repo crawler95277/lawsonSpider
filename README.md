@@ -7,7 +7,7 @@
 # 罗森小程序
 # LAWSON Spider
 
-本程序中 罗林点点 小程序加密方案
+本程序中罗林点点小程序加密方案。
 本程序已测试获取店铺数据
 
 <img width="243" alt="image" src="https://github.com/user-attachments/assets/ca95e1d8-f813-4ba8-91e5-3c26b0f57d2d" />
